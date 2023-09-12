@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7936f989c40f3fb499c800ef40ac2c02
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - "knife\u0131con": {fileID: 8512399178870595518, guid: 9b8178b7c1d4c9f44a2c6d59074a009e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
